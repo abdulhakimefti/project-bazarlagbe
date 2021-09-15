@@ -1,0 +1,24 @@
+/* All Font used in web  */
+/* font-family: 'Azeret Mono', monospace;
+font-family: 'Lobster', cursive;
+font-family: 'MedievalSharp', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Exo 2', sans-serif; */
+
+.logo {
+    font-size: 50px;
+}
+.logo-bazar {
+    color: black;
+    font-family: 'Exo 2', sans-serif; 
+}
+.logo-lagbe {
+    color: red;
+    font-family: 'Lobster', cursive;
+}
+.logo-q-mark {
+    color: purple;
+    font-family: 'Azeret Mono', monospace;
+}
